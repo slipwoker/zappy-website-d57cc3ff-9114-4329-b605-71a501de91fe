@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+NANOCRYL מציעה פתרונות ציפוי ננו פרמיום למקררים. גלו קולקציית גימורים אקסקלוסיבית שתהפוך את המטבח שלכם למרחב עיצובי יוקרתי עם טכנולוגיה מתקדמת.
+
+### קולקציית גימורים
+https://example.com/finishes
+גלו את קולקציית הגימורים האקסקלוסיבית של NANOCRYL. מגוון רחב של ציפויי ננו יוקרתיים שישנו את המראה של המקרר שלכם. בחרו את הסגנון המושלם עבורכם.
+
+### טכנולוגיה ומפרט
+https://example.com/technology
+הכירו את טכנולוגיית nanocryl c 150 המהפכנית. מפרט טכני מלא, עמידות יוצאת דופן ואיכות פרמיום. גלו כיצד הציפוי שלנו משנה את תעשיית עיצוב הפנים.
+
+### צור קשר
+https://example.com/contact
+רוצים להפוך את המקרר שלכם ליצירת אמנות? צוות המומחים של NANOCRYL כאן כדי לייעץ לכם. צרו קשר עוד היום וקבלו הצעה אישית לחיפוי יוקרתי למקרר.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
